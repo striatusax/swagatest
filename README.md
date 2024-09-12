@@ -6,7 +6,7 @@
   chromedriver
   chrome
 
-## Скачиваем файл saucedemotest.py
+## Скачиваем файл saucedemotest.py и запускаем
 
 ## Тест выполняет следующие действия и проверки на сайте saucedemo.com:
 1. Авторизуется под standard_user.  
